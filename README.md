@@ -1,0 +1,1 @@
+# solr-updater-2.0
